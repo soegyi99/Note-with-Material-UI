@@ -1,0 +1,22 @@
+{
+  "notes": [
+    {
+      "title": "someone",
+      "details": "something",
+      "radio": "todos",
+      "id": 2
+    },
+    {
+      "title": "react material UI",
+      "details": "day 13",
+      "radio": "reminder",
+      "id": 3
+    },
+    {
+      "title": "Work",
+      "details": "WOrky Worky",
+      "radio": "work",
+      "id": 4
+    }
+  ]
+}
